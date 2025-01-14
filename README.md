@@ -24,4 +24,8 @@ git clone https://github.com/redpeppers-01/NTHashTool.git
 
 ## Contact
 
-For any questions or issues, please contact us at support@nthashtool.com.
+````bash
+://dla.network [oZark oRChes✝ra✝'d]
+````
+
+[☕ Buy me a coffee](https://www.buymeacoffee.com/p_pepp)
